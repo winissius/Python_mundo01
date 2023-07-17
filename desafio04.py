@@ -1,0 +1,7 @@
+n=input('digite qualquer coisa que seu coraão mandar ')
+print('o que você digitou é alfanumérico?',n.isalpha())
+print('o que você digitou está em caixa alta?',n.isupper())
+print('o que você digitou é um número?',n.isnumeric())
+print('o que você digitou é está minúsculo?',n.islower())
+print('o que você digitou é decimal?',n.isdecimal())
+print('o que você digitou é alfanumérico?',n.isalnum())
